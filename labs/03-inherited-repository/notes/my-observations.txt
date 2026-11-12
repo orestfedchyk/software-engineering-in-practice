@@ -1,0 +1,3 @@
+On main branch, tree clear, nothing to commit
+Showed 2 commits by Michal Maj on October 7.
+Untracked file appeared (it showes ./notes directory), still on main branch
